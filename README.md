@@ -8,12 +8,19 @@ FIFA is a popular video game series that includes a vast amount of data about fo
 ## Data Cleaning Process
 The data cleaning process involves several steps to ensure the data is accurate, consistent, and suitable for analysis. The following steps are typically followed:
 
-Data Loading: The raw data files are loaded into the cleaning script or tool.
-Data Inspection: An initial inspection of the data is performed to identify any obvious inconsistencies or issues.
-Missing Data Handling: Missing values are identified and handled appropriately, either through imputation or removal.
-Data Transformation: The data is transformed into a standardized format to ensure consistency and ease of analysis. This may include renaming columns, converting data types, or aggregating data.
-Data Validation: The cleaned data is validated against predefined rules or criteria to ensure its quality and integrity.
-Data Export: The cleaned data is exported to a suitable file format, such as CSV or JSON, for further analysis or use.
+### Data Loading: 
+The raw data files are loaded into the cleaning script or tool.
+### Data Inspection: 
+An initial inspection of the data is performed to identify any obvious inconsistencies or issues.
+### Missing Data Handling: 
+Missing values are identified and handled appropriately, either through imputation or removal.
+### Data Transformation: 
+The data is transformed into a standardized format to ensure consistency and ease of analysis. This may include renaming columns, converting data types, or aggregating data.
+### Data Validation: 
+The cleaned data is validated against predefined rules or criteria to ensure its quality and integrity.
+### Data Export: 
+The cleaned data is exported to a suitable file format, such as CSV or JSON, for further analysis or use.
+
 The specific steps and techniques used in the cleaning process may vary depending on the nature of the data and the desired outcome.
 
 ## Requirements
